@@ -1,6 +1,5 @@
 package utility;
 
-import java.util.Date;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
